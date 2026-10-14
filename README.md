@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0290-word-pattern) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
