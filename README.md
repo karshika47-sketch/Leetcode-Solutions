@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
 | [1021-remove-outermost-parentheses](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
 | [2235-add-two-integers](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Array
 |  |
