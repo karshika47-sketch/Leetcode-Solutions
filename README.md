@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
