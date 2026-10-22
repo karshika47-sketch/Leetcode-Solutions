@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
 | [2235-add-two-integers](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2235-add-two-integers) |
@@ -67,6 +68,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
