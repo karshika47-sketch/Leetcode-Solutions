@@ -86,4 +86,16 @@
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
