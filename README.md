@@ -6,6 +6,7 @@
 | ------- |
 | [0290-word-pattern](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
 | [1021-remove-outermost-parentheses](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
