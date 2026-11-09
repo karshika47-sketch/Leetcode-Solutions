@@ -41,6 +41,7 @@
 | [0441-arranging-coins](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [1688-count-of-matches-in-tournament](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -51,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
