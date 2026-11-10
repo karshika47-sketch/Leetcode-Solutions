@@ -155,4 +155,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
