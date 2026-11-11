@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
@@ -52,6 +53,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0598-range-addition-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -107,6 +111,7 @@
 | [0005-longest-palindromic-substring](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
