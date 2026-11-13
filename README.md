@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
@@ -112,6 +113,7 @@
 | [0005-longest-palindromic-substring](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
