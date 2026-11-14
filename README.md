@@ -61,6 +61,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Indexed Tree
 |  |
@@ -163,8 +164,13 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
 | [0077-combinations](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0077-combinations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
