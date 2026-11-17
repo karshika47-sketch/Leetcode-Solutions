@@ -139,6 +139,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
