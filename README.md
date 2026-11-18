@@ -180,4 +180,20 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
