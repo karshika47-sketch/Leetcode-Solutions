@@ -9,6 +9,7 @@
 | [0344-reverse-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
 | [1021-remove-outermost-parentheses](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -117,6 +118,7 @@
 | [0344-reverse-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
