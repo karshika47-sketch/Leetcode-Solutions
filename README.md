@@ -50,6 +50,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
@@ -66,6 +67,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Indexed Tree
 |  |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,4 +215,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
