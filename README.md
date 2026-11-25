@@ -17,6 +17,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
