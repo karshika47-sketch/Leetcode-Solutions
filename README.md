@@ -52,6 +52,7 @@
 | [2235-add-two-integers](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
@@ -132,6 +133,7 @@
 | [0415-add-strings](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
