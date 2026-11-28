@@ -10,6 +10,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
 | [1021-remove-outermost-parentheses](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -43,6 +44,7 @@
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0504-base-7) |
@@ -152,6 +154,7 @@
 | [0191-number-of-1-bits](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/karshika47-sketch/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |
